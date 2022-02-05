@@ -24,31 +24,248 @@ Course Requirements and Grading
 
 Coursework includes authoring a policy brief for a senior official in a mayoral administration, a short essay (500-600 words) written as an op-ed, one team-based presentation analyzing a preselected city case study, and weekly reading reflection posts. Student-led presentations (10–15 minutes) will precede several class discussions. Students will also design a public roundtable for local organizers and advocates pursuing economic equity agendas in greater Boston.
 
-| Coursework Elements | Grade Percentages |
-| --- | --- |
-| Short Essay | 15% |
-| Class Presentations, Discussions, and Reading Posts | 25% |
-| Case Analysis & Presentation | 30% |
-| Final Paper (3 page policy brief or 12–15 page research paper) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Coursework Elements
+{{< thclose >}}
+{{< thopen >}}
+Grade Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Essay
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Presentations, Discussions, and Reading Posts
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Analysis & Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (3 page policy brief or 12–15 page research paper)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
 (Class sessions meet on Tuesdays and Thursdays.)
 
-| Week # | Topics | Key dates |
-| --- | --- | --- |
-| 1 | Planning as Theory & Practice | &nbsp; |
-| 2 | Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City | &nbsp; |
-| 3 | U.S. Urban Social Movements and New Space Claims | Thurs: Short essay due |
-| 4 | Community Development at the Bargaining Table | Tues: Guest Lecture: Jonathan Greely, Director of Development Review, Boston Planning & Development Agency |
-| 5 | Equity & Inclusion Plans | Tues: Guest Lecture: Chief Lori Nelson, Mayor’s Office of Resilience and Racial Equity |
-| 6 | Race & Gender (Based) Approaches to Equity | Thurs: Team One presentation |
-| 7 | Race & Gender (Neutral) Approaches to Equity | Thurs: Team Two presentation |
-| 8 | Environmental Justice & Equity Planning | Thurs: Team Three presentation |
-| 9 | Cultural Heritage & Preservation | Tues: Guest Lecture: Kathy Kottaridis, Executive Director, Historic Boston Incorporated |
-| 10 | Arts Planning & Economic Development | Thurs: Guest Lecture: Chief Kara Elliott-Ortega, Mayor’s Office of Arts & Culture, City of Boston |
-| 11 | Commercial Development & Commercial Values in the Neighborhood | Thurs: Guest Lecture: Maggie Super Church, Vice President for Market Innovation & Impact,  {{< br >}}Conservation Law Foundation |
-| 12 | Toward Control: Social Enterprise as Development | Tues: Guest Lecture: Bing Broderick, Executive Director, Haley House |
-| 13 | Public Roundtable | Tues: Final paper due; prep & walkthrough of public roundtable  {{< br >}}Thurs: Public roundtable |
-| 14 | Final Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as Theory & Practice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+U.S. Urban Social Movements and New Space Claims
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Short essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Community Development at the Bargaining Table
+{{< tdclose >}}
+{{< tdopen >}}
+Tues: Guest Lecture: Jonathan Greely, Director of Development Review, Boston Planning & Development Agency
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Equity & Inclusion Plans
+{{< tdclose >}}
+{{< tdopen >}}
+Tues: Guest Lecture: Chief Lori Nelson, Mayor’s Office of Resilience and Racial Equity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Race & Gender (Based) Approaches to Equity
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Team One presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Race & Gender (Neutral) Approaches to Equity
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Team Two presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Justice & Equity Planning
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Team Three presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Heritage & Preservation
+{{< tdclose >}}
+{{< tdopen >}}
+Tues: Guest Lecture: Kathy Kottaridis, Executive Director, Historic Boston Incorporated
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Arts Planning & Economic Development
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Guest Lecture: Chief Kara Elliott-Ortega, Mayor’s Office of Arts & Culture, City of Boston
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Commercial Development & Commercial Values in the Neighborhood
+{{< tdclose >}}
+{{< tdopen >}}
+Thurs: Guest Lecture: Maggie Super Church, Vice President for Market Innovation & Impact,  
+Conservation Law Foundation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Toward Control: Social Enterprise as Development
+{{< tdclose >}}
+{{< tdopen >}}
+Tues: Guest Lecture: Bing Broderick, Executive Director, Haley House
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Public Roundtable
+{{< tdclose >}}
+{{< tdopen >}}
+Tues: Final paper due; prep & walkthrough of public roundtable  
+Thurs: Public roundtable
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
