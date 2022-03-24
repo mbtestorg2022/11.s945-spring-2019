@@ -67,7 +67,7 @@ Tuesday:
 
 *   Castells, Manuel et al. 2017. _Another Economy Is Possible: Culture And Economy In A Time Of Crisis._ Cambridge: Polity Press. Introduction (1-4) and Conclusion (205–214). ISBN: 9781509517213.
 *   Davis, Diane. 2005. “[Cities in a Global Context: A Brief Intellectual History](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-2427.2005.00572.x).” _International Journal of Urban and Regional Research_ 29(1), 92–109.
-*   Sassen, Saskia. 2005. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Global City: Introducing a Concept (PDF)](http://www.saskiasassen.com/pdfs/publications/the-global-city-brown.pdf).” _Brown Journal of Urban Affairs_ XI(2), 27–43.
+*   Sassen, Saskia. 2005. “[The Global City: Introducing a Concept (PDF)](http://www.saskiasassen.com/pdfs/publications/the-global-city-brown.pdf).” _Brown Journal of Urban Affairs_ XI(2), 27–43.
 *   Storper, Michael et al., 2015. _The Rise and Fall of Urban Economies._ Palo Alto: Stanford Press. Chapters 2, 9, 10. ISBN: 9781503600669.
 
 Optional:  
@@ -137,7 +137,7 @@ Tuesday:
 
 Thursday:  
 
-*   Garland, Liam and Susie Suafai. 2002. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Getting to the Table: A Project Labor Agreement Primer (PDF)](http://ww1.insightcced.org/uploads/publications/wd/Getting%20to%20the%20Table%20PLA.pdf).” National Economic Development & Law Center.
+*   Garland, Liam and Susie Suafai. 2002. “[Getting to the Table: A Project Labor Agreement Primer (PDF)](http://ww1.insightcced.org/uploads/publications/wd/Getting%20to%20the%20Table%20PLA.pdf).” National Economic Development & Law Center.
 *   DeFilippis, James. 2004. _Unmaking Goliath: Community Control In The Face Of Global Capital._ New York: Routledge. Chapter 2. ISBN: 9780415945257.
 *   Lemann, Nicholas. 1994. “[The Myth of Community Development](https://www.nytimes.com/1994/01/09/magazine/the-myth-of-community-development.html).” _The New York Times,_ 1/9/1994.
 *   Belongie, Nicholas and Robert Mark Silverman. 2018. “[Model CBAs and Community Benefits Ordinances as Tools for Negotiating Equitable Development: Three Critical Cases](https://doi.org/10.1080/10705422.2018.1476427).” _Journal of Community Practice_ 26(3), 308–327.
@@ -162,23 +162,23 @@ Equity & Inclusion Plans
 {{< tdopen >}}
  Tuesday:  
 
-*   Fairchild, Denise and Kalima Rose. 2018. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Inclusive Procurement And Contracting: Building a Field of Policy and Practice (PDF)](http://files.emeraldcities.org/media/news/Inclusive_procurement_final_03.05.18_3.pdf)”
-*   Office of Minority and Women Inclusion. 2018. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Annual Report to Congress (PDF)](https://www.sec.gov/files/OMWI%20FY%202017%20Annual%20Report%20FV%20508.pdf).” Washington, DC: U.S. Securities and Exchange Commission.
-*   Insight Center for Community Economic Development. 2016. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Contracting for Equity: Best Local Government Practices that Advance Racial Equity in Government Contracting and Procurement (PDF)](https://racialequityalliance.org/wp-content/uploads/2015/12/GARE-Contract_For_Equity.pdf).”
+*   Fairchild, Denise and Kalima Rose. 2018. “[Inclusive Procurement And Contracting: Building a Field of Policy and Practice (PDF)](http://files.emeraldcities.org/media/news/Inclusive_procurement_final_03.05.18_3.pdf)”
+*   Office of Minority and Women Inclusion. 2018. “[Annual Report to Congress (PDF)](https://www.sec.gov/files/OMWI%20FY%202017%20Annual%20Report%20FV%20508.pdf).” Washington, DC: U.S. Securities and Exchange Commission.
+*   Insight Center for Community Economic Development. 2016. “[Contracting for Equity: Best Local Government Practices that Advance Racial Equity in Government Contracting and Procurement (PDF)](https://racialequityalliance.org/wp-content/uploads/2015/12/GARE-Contract_For_Equity.pdf).”
 *   Doussard, Marc. 2015. “[Equity Planning Outside City Hall: Rescaling Advocacy to Confront the Sources of Urban Problems](https://doi.org/10.1177%2F0739456X15580021).” _Journal of Planning Education and Research_ 35(3), 296–306.
 *   [City of Boston Executive Order Promoting Racial Equity](https://www.boston.gov/news/executive-order-promote-racial-equality-and-resilience-signed-mayor-walsh) (2019).
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[City of Boston Economic Equity & Inclusion Agenda (PDF)](https://www.cityofboston.gov/pdfs/economicequityinclusionagenda.pdf) (2016).
+*   [City of Boston Economic Equity & Inclusion Agenda (PDF)](https://www.cityofboston.gov/pdfs/economicequityinclusionagenda.pdf) (2016).
 
 Optional:  
 
 *   Slowey, Kim. 2017. “[The Dotted Line: How Contractors Can Navigate Local Hiring Requirements](https://www.constructiondive.com/news/the-dotted-line-how-contractors-can-navigate-local-hiring-requirements/510778/).” ConstructionDive.com, 11/14/2017.
 *   Milbes, Alaa. 2017. “[Trump administration drops local hire program that would have employed hundreds of thousands of Americans in their own communities](https://jobstomoveamerica.org/trump-administration-drops-local-hire-program-employed-hundreds-thousands-americans-communities/).” Jobs to Move America.org, 8/24/2017.
 *   Reynoso, Elizabeth and Kristen Scheyder. 2017. “[Five Cities that are Buying into Equity](https://www.livingcities.org/blog/1208-five-cities-that-are-buying-into-equity).” LivingCities.org, 6/22/2017.
-*   Edelman, Daniel and Hanna Azemati. 2017. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Improving Government Vendor Diversity (PDF)](https://govlab.hks.harvard.edu/files/strategies_for_improving_vendor_diversity_brief.pdf).” Harvard Kennedy School Government Performance Lab.
+*   Edelman, Daniel and Hanna Azemati. 2017. “[Improving Government Vendor Diversity (PDF)](https://govlab.hks.harvard.edu/files/strategies_for_improving_vendor_diversity_brief.pdf).” Harvard Kennedy School Government Performance Lab.
 
 Thursday:  
 
-*   Lingane, Alison. 2015. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bay Area Blueprint: Worker Cooperatives as a Community Economic Development Strategy (PDF)](https://www.project-equity.org/wp-content/uploads/2017/02/Bay-Area-Blueprint_Worker-Coops-as-a-Community-Economic-Development-Strategy_CPJ2015_Lingane.pdf).” _Carolina Planning Journal_ 40, 19–28.
+*   Lingane, Alison. 2015. “[Bay Area Blueprint: Worker Cooperatives as a Community Economic Development Strategy (PDF)](https://www.project-equity.org/wp-content/uploads/2017/02/Bay-Area-Blueprint_Worker-Coops-as-a-Community-Economic-Development-Strategy_CPJ2015_Lingane.pdf).” _Carolina Planning Journal_ 40, 19–28.
 *   Camou, Michelle. 2016. “[Cities Developing Worker Coops: Efforts in Ten Cities](https://community-wealth.org/content/cities-developing-worker-coops-efforts-ten-cities).” Medina, OH: Imagined Economy Project. 1–35.
 *   Spicer, Jason. 2017. “[The French Connection: Cooperatives at the Heart of the Social and Solidarity Economy](http://colabradio.mit.edu/the-french-connection-cooperatives-at-the-heart-of-the-social-and-solidarity-economy/).” Community Innovators Lab Radio at MIT, 6/1/2017.
 *   Schlachter, Laura Hanson. 2017. “[Stronger Together? The USW-Mondragon Union Co-op Model](https://doi.org/10.1177%2F0160449X17696989).” _Labor Studies Journal_ 42(2), 124–147.
@@ -200,7 +200,7 @@ Race & Gender (Based) Approaches to Equity
  Tuesday:  
 
 *   State of New York [MWBE Supplier Diversity Program](https://its.ny.gov/minority-and-womens-business-enterprise-mwbe-supplier-diversity-program).
-*   Insight Center for Community Economic Development. 2007. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[State Policies and Programs for Minority and Women-Business Development (PDF)](http://ww1.insightcced.org/uploads/publications/assets/50%20state%20inclusive%20business%20policy%20scan.pdf).”
+*   Insight Center for Community Economic Development. 2007. “[State Policies and Programs for Minority and Women-Business Development (PDF)](http://ww1.insightcced.org/uploads/publications/assets/50%20state%20inclusive%20business%20policy%20scan.pdf).”
 
 
 {{< tdclose >}}
@@ -247,7 +247,7 @@ Environmental Justice & Equity Planning
 Tuesday:  
 
 *   [Atlanta BeltLine](https://beltline.org/) website.
-*   PolicyLink. 2013. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[New Orleans Fast-Tracks Equitable Transit Investment (PDF)](http://www.policylink.org/sites/default/files/americas-tomorrow-june62013.pdf).” _America's Tomorrow: Equity is the Superior Growth Model._
+*   PolicyLink. 2013. “[New Orleans Fast-Tracks Equitable Transit Investment (PDF)](http://www.policylink.org/sites/default/files/americas-tomorrow-june62013.pdf).” _America's Tomorrow: Equity is the Superior Growth Model._
 *   Schweitzer, Lisa E. 2016. “[Tracing the Justice Conversation After 'Green Cities, Growing Cities'](https://www.tandfonline.com/doi/full/10.1080/01944363.2016.1214538).” _Journal of the American Planning Association_ 82(4), 374–379.
 *   Bullard, Robert D. 1996. “[Environmental Justice: It's More Than Waste Facility Siting](https://www.jstor.org/stable/42863495?seq=1#page_scan_tab_contents).” _Social Science Quarterly_ 77(3), 493–499.
 *   Bullard, Robert D. (ed.). 1994. _Unequal Protection: Environmental Justice and Communities of Color._ San Francisco: Sierra Club Books. ISBN: 9780871563804. 
@@ -277,12 +277,12 @@ Cultural Heritage & Preservation
 Tuesday:  
 
 *   Loulanksi, Tolina. 2006. “[Cultural Heritage in Socioeconomic Development: Local and Global Perspectives](https://www.researchgate.net/publication/268061718_Cultural_Heritage_in_Socio-Economic_Development_Local_and_Global_Perspectives).” _Environments_ 34(2), 51–69.
-*   Clarion Associates. 2011. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Economic Power of Heritage in Place: How Historic Preservation is Building a Sustainable Future in Colorado (PDF)](https://historicdenver.org/wp-content/uploads/2017/05/1620_EconomicBenefitsReport.pdf).”
+*   Clarion Associates. 2011. “[The Economic Power of Heritage in Place: How Historic Preservation is Building a Sustainable Future in Colorado (PDF)](https://historicdenver.org/wp-content/uploads/2017/05/1620_EconomicBenefitsReport.pdf).”
 *   Preservation Virginia. 2017. “[The Economic Impact of Heritage Tourism in Virginia (PDF)](http://preservationva.wpengine.com/wp-content/uploads/2018/08/HeritageTourism_FINALE_02-16-17secured.pdf).”
 
 Thursday:  
 
-*   U.S. Dept of Commerce. 2005. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Position Paper on Cultural & Heritage Tourism in the United States (PDF)](https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/position-paper-cultural-heritage-tourism-in-the-united-states-by-the-presidents-commitee-on-the-arts).”
+*   U.S. Dept of Commerce. 2005. “[A Position Paper on Cultural & Heritage Tourism in the United States (PDF)](https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/position-paper-cultural-heritage-tourism-in-the-united-states-by-the-presidents-commitee-on-the-arts).”
 *   [Weeksville Heritage Center](http://www.weeksvillesociety.org/) website.
 
 
@@ -300,7 +300,7 @@ Arts Planning & Economic Development
 Tuesday:  
 
 *   Florida, Richard. 2002. _The Rise of the Creative Class._ New York: Basic Books. ISBN: 9780465024766.
-*   National Governors Association. 2012. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[New Engines of Growth: Five Roles for Arts, Culture and Design (PDF)](https://www.nga.org/wp-content/uploads/2020/08/New-Engines-of-Growth.pdf).”
+*   National Governors Association. 2012. “[New Engines of Growth: Five Roles for Arts, Culture and Design (PDF)](https://www.nga.org/wp-content/uploads/2020/08/New-Engines-of-Growth.pdf).”
 *   Grodach, Carl. 2008. “[Looking beyond Image and Tourism: The Role of Flagship Cultural Projects in Local Arts Development](https://doi.org/10.1080/02697450802522806).” _Planning, Practice, & Research._ 23(4), 495–516.
 *   Cambridge Uncovered (Cambridge Community Television). 2015. “[Central Square - Cultural Arts District](https://www.cctvcambridge.org/CUCentralSquare)” (video). 
 *   Shanks, Adam and Scott Stafford. 2017. “[Economic Impacts Spilling Outside Mass MOCA](https://www.berkshireeagle.com/stories/economic-impacts-spilling-outside-mass-moca,508746).” _Berkshire Eagle,_ 5/28/2017. 
@@ -328,7 +328,7 @@ Tuesday: 
 
 Thursday:  
 
-*   Peters, Allen and Peter Fisher. 2004. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Failures of Economic Development Incentives (PDF)](https://www.mackinac.org/archives/2009/nr043009-petersfisher.pdf).” _Journal of the American Planning Association_ 70(1), 27–37.
+*   Peters, Allen and Peter Fisher. 2004. “[The Failures of Economic Development Incentives (PDF)](https://www.mackinac.org/archives/2009/nr043009-petersfisher.pdf).” _Journal of the American Planning Association_ 70(1), 27–37.
 *   Clark, Terry Nichols. 2004. “Urban Amenities: Lakes, Opera, and Juice Bars: Do They Drive Development?” in Clark, Terry Nichols (ed.), _The City as an Entertainment Machine._ Lanham: Lexington Books. 103–140. ISBN: 9780739124222.
 *   Glaeser, Edward L., Jed Kolko, and Albert Saiz. 2004. “Consumers and Cities” in Clark (ed.), _The City as an Entertainment Machine._ 135–141. ISBN: 9780739124222.
 

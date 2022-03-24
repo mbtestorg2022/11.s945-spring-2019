@@ -18,13 +18,13 @@ Guidelines:
 
 Possible topics:
 
-1.  Proposed MBTA fare hikes (Boston): ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Massachusetts Bay Transportation Authority Fare Increase Proposal (PDF)](https://cdn.mbta.com/sites/default/files/fmcb-meeting-docs/2019/01-january/2019-01-28-fmcb-fare-proposal-original.pdf)
+1.  Proposed MBTA fare hikes (Boston): [Massachusetts Bay Transportation Authority Fare Increase Proposal (PDF)](https://cdn.mbta.com/sites/default/files/fmcb-meeting-docs/2019/01-january/2019-01-28-fmcb-fare-proposal-original.pdf)
     *   Opinion: "[Forget Fare Hikes—Make the T Free!](https://www.bostonglobe.com/opinion/2019/01/31/opinion-michelle-forget-fare-hikes-make-free/vJpKVu6Rft2C4Esi50mB5M/story.html)" 
 2.  Prop C (San Francisco): [Legal text of ballot measure (PDF)](https://sfelections.sfgov.org/sites/default/files/Documents/candidates/Nov%202018/LT_C.pdf)
     *   Opinion: "[Vote No on Prop. C — More Spending without a Plan Won’t Address Homelessness](https://www.sfchronicle.com/opinion/openforum/article/Vote-no-on-Prop-C-Taxing-business-to-help-13257616.php)" 
     *   Opinion: "[To Close the Income Gap, Our City Government Must First Lead by Example](http://www.sfexaminer.com/close-income-gap-city-government-must-first-lead-example/)"
 3.  Merging St. Louis and St. Louis County: [St. Louis City-County Governance Task Force Report to the Community](https://drive.google.com/file/d/1bOFQ3HTYUzQwEjJsl2y-3bqB8VyeY8j-/view) 
-    *   Opinion: "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Time is Right for a New Board of Electors / County Goes Back to the Drawing Board (PDF)](http://mediad.publicbroadcasting.net/p/kwmu/files/201901/post_dispatch_articles_from_hp______6.30.94-8.18.94.pdf)"
+    *   Opinion: "[Time is Right for a New Board of Electors / County Goes Back to the Drawing Board (PDF)](http://mediad.publicbroadcasting.net/p/kwmu/files/201901/post_dispatch_articles_from_hp______6.30.94-8.18.94.pdf)"
     *   News: "[As Better Together Plan Looms, Municipal League Seeks Alternative City-County Merger Plan](https://news.stlpublicradio.org/post/better-together-plan-looms-municipal-league-seeks-alternative-city-county-merger-plan#stream/0)"
 
 Case Study Analysis and Presentation (due weeks 6–8)
